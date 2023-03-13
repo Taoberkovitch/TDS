@@ -1,0 +1,7 @@
+imbalanced-learn  
+imblearn               
+numpy                          
+pandas                          
+scikit-learn                     
+scipy                           
+tqdm                            
